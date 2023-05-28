@@ -1,0 +1,15 @@
+G:\Meu Drive\.Net\DotNet_Classes_Abstratas_Interfaces\obj\Debug\net6.0\DotNet_Classes_Abstratas_Interfaces.csproj.AssemblyReference.cache
+G:\Meu Drive\.Net\DotNet_Classes_Abstratas_Interfaces\obj\Debug\net6.0\DotNet_Classes_Abstratas_Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\.Net\DotNet_Classes_Abstratas_Interfaces\obj\Debug\net6.0\DotNet_Classes_Abstratas_Interfaces.AssemblyInfoInputs.cache
+G:\Meu Drive\.Net\DotNet_Classes_Abstratas_Interfaces\obj\Debug\net6.0\DotNet_Classes_Abstratas_Interfaces.AssemblyInfo.cs
+G:\Meu Drive\.Net\DotNet_Classes_Abstratas_Interfaces\obj\Debug\net6.0\DotNet_Classes_Abstratas_Interfaces.csproj.CoreCompileInputs.cache
+G:\Meu Drive\.Net\DotNet_Classes_Abstratas_Interfaces\bin\Debug\net6.0\DotNet_Classes_Abstratas_Interfaces.exe
+G:\Meu Drive\.Net\DotNet_Classes_Abstratas_Interfaces\bin\Debug\net6.0\DotNet_Classes_Abstratas_Interfaces.deps.json
+G:\Meu Drive\.Net\DotNet_Classes_Abstratas_Interfaces\bin\Debug\net6.0\DotNet_Classes_Abstratas_Interfaces.runtimeconfig.json
+G:\Meu Drive\.Net\DotNet_Classes_Abstratas_Interfaces\bin\Debug\net6.0\DotNet_Classes_Abstratas_Interfaces.dll
+G:\Meu Drive\.Net\DotNet_Classes_Abstratas_Interfaces\bin\Debug\net6.0\DotNet_Classes_Abstratas_Interfaces.pdb
+G:\Meu Drive\.Net\DotNet_Classes_Abstratas_Interfaces\obj\Debug\net6.0\DotNet_Classes_Abstratas_Interfaces.dll
+G:\Meu Drive\.Net\DotNet_Classes_Abstratas_Interfaces\obj\Debug\net6.0\refint\DotNet_Classes_Abstratas_Interfaces.dll
+G:\Meu Drive\.Net\DotNet_Classes_Abstratas_Interfaces\obj\Debug\net6.0\DotNet_Classes_Abstratas_Interfaces.pdb
+G:\Meu Drive\.Net\DotNet_Classes_Abstratas_Interfaces\obj\Debug\net6.0\DotNet_Classes_Abstratas_Interfaces.genruntimeconfig.cache
+G:\Meu Drive\.Net\DotNet_Classes_Abstratas_Interfaces\obj\Debug\net6.0\ref\DotNet_Classes_Abstratas_Interfaces.dll
