@@ -42,3 +42,55 @@
 * É como se fosse uma classe abstrata, podendo definir métodos abstratos para serem implementados,
 * Assim como uma classe abstrata, uma interface não pode ser instanciada.
 * Uma classe pode implementar mais de uma interface
+```csharp
+
+    //Interface
+    public interface ICalculadora
+    {
+        int Somar(int num1,int num2);
+        int Subtrair(int num1,int num2);
+        int Multiplicar(int num1,int num2);
+        int Dividir(int num1,int num2);
+    }
+
+    // Classe
+    public class Calculadora : ICalculadora
+    {
+        public int Somar(int num1,int num2){
+            return num1 + num2 ; 
+        }
+        public int Subtrair(int num1,int num2){
+            return num1 - num2;
+        }
+        public int Multiplicar(int num1,int num2){
+            return num1 * num2;
+        }
+        public int Dividir(int num1,int num2){
+            return num1/num2;
+        }
+    }
+
+    //Program
+    using DotNet_Classes_Abstratas_Interfaces.Models;
+    using DotNet_Classes_Abstratas_Interfaces.Interfaces;
+
+    ICalculadora calc = new Calculadora();
+    Console.WriteLine(calc.Multiplicar(3,9));
+
+```
+
+* é possível também passar um método padrão na interface
+
+```csharp
+
+    //Interface
+    public interface ICalculadora
+    {
+        int Somar(int num1,int num2);
+        int Subtrair(int num1,int num2);
+        int Multiplicar(int num1,int num2);
+        int Dividir(int num1,int num2){
+            return num1/num2
+        }
+    }
+```
