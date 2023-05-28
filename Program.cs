@@ -1,4 +1,5 @@
 ﻿using DotNet_Classes_Abstratas_Interfaces.Models;
+using DotNet_Classes_Abstratas_Interfaces.Interfaces;
 
-Computador c = new Computador();
-Console.WriteLine(c.ToString());
+ICalculadora calc = new Calculadora();
+Console.WriteLine(calc.Multiplicar(3,9));
